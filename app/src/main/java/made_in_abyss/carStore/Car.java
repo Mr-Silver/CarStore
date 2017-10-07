@@ -16,7 +16,7 @@ public class Car extends RealmObject{
     private String model;
     private boolean status;
 
-    private RealmList<Car> cars; // Declare one-to-many relationships ?
+   // private RealmList<Car> cars; // Declare one-to-many relationships ?
 
     public String getId() {
         return id;

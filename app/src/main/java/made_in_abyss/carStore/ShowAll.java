@@ -41,6 +41,7 @@ public class ShowAll extends AppCompatActivity {
         realm.beginTransaction();
         List<Car> cars =
 */
+        //Realm realm = Realm.getInstance(getApplicationContext());
 
     }
 }
